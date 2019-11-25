@@ -1,0 +1,135 @@
+
+body {
+    background-color: #1A2930;
+}
+
+.white {
+    background-color: #ffffff;
+}
+
+.border {
+    border: 2px solid black !important;
+}
+.blue{
+    background-color: #015478;
+}
+
+img {
+    max-height: 150px;
+}
+
+.grande {
+    height: 400px;
+}
+
+.amarillo {
+    background-color: #F7CE3E;
+}
+
+.texto {
+    color: #76323F;
+}
+
+.list-group-item {
+    border: 0;
+    max-width: 179p;
+}
+
+.a1 a {
+    color: #76323F;
+    font-size: 15px;
+}
+
+.a2 a {
+    color: #76323F;
+    font-size: 10px;
+}
+
+.a3 a {
+    color: #76323F;
+    font-size: 7px;
+}
+
+.navbar .navbar-nav li a:hover {
+    color: #6D000E;
+}
+
+.navbar-toggler {
+    border-color: rgb(118, 50, 63);
+}
+
+a {
+    color: #76323F;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(118, 50, 63)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+      
+.blanco a{
+    color: white;
+}
+
+.border-menu{
+    border: 1px solid black;;
+}
+
+.img-foot{
+    max-width: 45px;
+    max-height: 45px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.img-foot:hover{
+    
+    max-width: 55px;
+    max-height: 55px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    font-weight: bold;
+}
+
+.boton1{
+    
+    width: 140px;
+    height: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+
+.boton2{
+    
+    width: 90px;
+    height: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+
+.boton3{
+    
+    width: 90px;
+    height: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.h5, h5 {
+    font-size: 0.9rem;
+}
+
+.fuente{
+    font-family: 'McLaren', cursive;
+}
