@@ -13,4 +13,3 @@ Web del alumno Iván Camacho Martínez
 - Clase border modificada por css para realización de los bordes de las cajas.
 - Clase text-center para alinear el texto en el centro
 - Pagination para realizar una paginación de la web.
-- 
